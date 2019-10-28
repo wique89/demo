@@ -1,0 +1,15 @@
+body {
+  font-size: 14px;
+  background: #f5f7fa;
+}
+
+pre {
+  padding: 5px;
+  margin: 5px;
+}
+.el-table th>.cell{
+  text-align: center
+}
+.el-table td, .el-table th{
+  text-align: center
+}
